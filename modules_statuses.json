@@ -1,0 +1,6 @@
+{
+    "Shop": true,
+    "Superadmin": true,
+    "Profile": true,
+    "Auth": true
+}
